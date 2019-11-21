@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080219787548",
+    "firebase_url": "https://postioapp.firebaseio.com",
+    "project_id": "postioapp",
+    "storage_bucket": "postioapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080219787548:android:4a13509cb07de213b35ad9",
+        "android_client_info": {
+          "package_name": "org.emiliohernandez.postio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080219787548-ougplcf6m9krgbdcjnilp24l1kb0gdjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh32Qpbzkv3Iwh3ImkS0EvpUpobvPNxEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080219787548-ougplcf6m9krgbdcjnilp24l1kb0gdjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
